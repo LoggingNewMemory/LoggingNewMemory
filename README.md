@@ -1,4 +1,6 @@
 # 💫 About Me:
+- Kana- Kanagawa! My name is Kanagawa Yamada 神奈川 山田
+- Call me Yamada (山田)
 - VTuber & VTeacher from Indonesia 🇮🇩
 - Working Mainly on Magisk Modules, Port ROM, Android 5.10 Custom Kernel
 - Transsision Holding Community Dev
