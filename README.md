@@ -21,6 +21,5 @@
   ## 💰 You can help me by Donating
   [SociaBuzz](https://sociabuzz.com/kanagawa_yamada/tribe) <br />
   [QRIS](https://t.me/KLAGen2/86) <br />
-  [PayPal](https://www.paypal.me/KanagawaYamada) <br />
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
