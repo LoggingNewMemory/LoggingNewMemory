@@ -2,10 +2,11 @@
 - Kana- Kanagawa! My name is Kanagawa Yamada 神奈川 山田
 - Call me Yamada (山田)
 - VTuber & VTeacher from Indonesia 🇮🇩
-- Working Mainly on Magisk Modules, Port ROM, Android 5.10 Custom Kernel
-- Transsision Holding Community Dev
+- Software Engineer 
+- Low-Level Developer
+- Learn with AI
+- Math Enjoyer
 - Owner of KLC (Kanagawa Lab Community)
-- Affiliated with: Gray Raven, Tecno Pova 5 Pro Community
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@KanagawaYamada) 
