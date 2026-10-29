@@ -1,6 +1,6 @@
 # 💫 About Me:
-- Kana- Kanagawa! My name is Kanagawa Yamada 神奈川 山田
-- Call me Yamada (山田)
+- Kana Wesley Yamada! My name is Wesley
+- You can call me: Kana, Wes, Yam (Or whatsoever) 
 - VTuber & VTeacher from Indonesia 🇮🇩
 - Software Engineer 
 - Low-Level Developer
